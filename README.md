@@ -8,6 +8,9 @@ This project analyzes the school dropout situation in Bagmati Province, Nepal, u
 
      It is partially synthetic — some data points were generated or estimated using AI tools to fill gaps from visual sources. This means the dataset may not     exactly match real-world figures and is used for educational purposes only.
 
+<img width="625" height="9" alt="image" src="https://github.com/user-attachments/assets/627c6bfc-486f-42af-9e15-d4a526f1b17a" />
+
+
 🔍 Project Goals
 Understand the major reasons behind school dropout in Bagmati Province.
 
