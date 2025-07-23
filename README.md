@@ -1,12 +1,6 @@
 # Student_Dropout_Prediction
 This project analyzes the school dropout situation in Bagmati Province, Nepal, using data analytics and machine learning. It helps identify the key reasons why students drop out before completing school and suggests how to support them better.
 
-⚠️ Note:
-
-    • The dataset is focused only on Bagmati Province, not the whole of Nepal.
-    • It is partially synthetic — some data points were generated or estimated using AI tools to fill gaps from visual sources. 
-        This means the dataset may not exactly match real-world figures and is used for educational purposes only.
-
 ________________________________________
 🔍 Project Goals
 1.	Understand the major reasons behind school dropout in Bagmati Province.
@@ -16,12 +10,6 @@ ________________________________________
 ________________________________________
 📊 Dataset
 
-•	Based on charts and data from the UNICEF Nepal Education Fact Sheet 2022.
-
-•	Focused only on students from Bagmati Province.
-
-•	Some values were synthetically generated to complete or simulate the dataset.
-
 •	Includes:
 
     o Demographics: gender, age, marriage status, disability
@@ -29,6 +17,12 @@ ________________________________________
     o Performance: attendance rate, academic score, class repetition, education level
     o Socio-economic: wealth level
     o Target: dropout (0 = no, 1 = yes)
+
+⚠️ Note:
+
+    • The dataset is focused only on Bagmati Province, not the whole of Nepal.
+    • It is partially synthetic — some data points were generated or estimated using AI tools to fill gaps from visual sources. 
+        This means the dataset may not exactly match real-world figures and is used for educational purposes only.
 
 ________________________________________
 🛠️ Models Used
