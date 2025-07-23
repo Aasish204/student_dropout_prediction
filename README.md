@@ -39,3 +39,6 @@ ________________________________________
 2.	Rural students, girls, and those from low-income families face more challenges.
 3.	Students who live far from school or lack access to internet/libraries are at higher risk.
 4.	Some districts in Bagmati show higher dropout patterns than others.
+
+
+
