@@ -10,13 +10,13 @@ ________________________________________
 ________________________________________
 📊 Dataset
 
-•	Includes:
+Includes:
 
-    o Demographics: gender, age, marriage status, disability
-    o School details: school type, district, area type, distance to school, library/internet access
-    o Performance: attendance rate, academic score, class repetition, education level
-    o Socio-economic: wealth level
-    o Target: dropout (0 = no, 1 = yes)
+ • Demographics: gender, age, marriage status, disability
+ • School details: school type, district, area type, distance to school, library/internet access
+ • Performance: attendance rate, academic score, class repetition, education level
+ • Socio-economic: wealth level
+ • Target: dropout (0 = no, 1 = yes)
 
 ⚠️ Note:
 
