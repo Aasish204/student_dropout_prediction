@@ -3,9 +3,9 @@ This project analyzes the school dropout situation in Bagmati Province, Nepal, u
 
 ⚠️ Note:
 
-•	The dataset is focused only on Bagmati Province, not the whole of Nepal.
+    •	The dataset is focused only on Bagmati Province, not the whole of Nepal.
 
-•	It is partially synthetic — some data points were generated or estimated using AI tools to fill gaps from visual sources. This means the dataset may not exactly match real-world figures and is used for educational purposes only.
+    •	It is partially synthetic — some data points were generated or estimated using AI tools to fill gaps from visual sources. This means the dataset may not exactly match real-world figures and is used for educational purposes only.
 
 ________________________________________
 🔍 Project Goals
@@ -25,19 +25,19 @@ ________________________________________
 •	Includes:
 
 
-o	Demographics: gender, age, marriage status, disability
+    o	Demographics: gender, age, marriage status, disability
 
 
-o	School details: school type, district, area type, distance to school, library/internet access
+    o	School details: school type, district, area type, distance to school, library/internet access
 
 
-o	Performance: attendance rate, academic score, class repetition, education level
+    o	Performance: attendance rate, academic score, class repetition, education level
 
 
-o	Socio-economic: wealth level
+    o	Socio-economic: wealth level
 
 
-o	Target: dropout (0 = no, 1 = yes)
+    o	Target: dropout (0 = no, 1 = yes)
 
 
 ________________________________________
